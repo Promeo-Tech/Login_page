@@ -1,0 +1,84 @@
+p {
+  margin-left: 50px;
+}
+
+.username {
+  margin-top: 10px;
+  margin-left: 580px;
+}
+
+input {
+  margin-left: 580px;
+  height: 30px;
+  width: 25%;
+  font-size: 18px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  margin-left: 700px;
+  border-radius: 10px;
+  height: 30px;
+  font-size: 20px;
+  width: 10%;
+  padding-bottom: 2%;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightgrey;
+}
+
+#page {
+  background-color: aqua;
+}
+
+.Login {
+  background-color: aqua;
+}
+
+body {
+  background-color: aqua;
+}
+
+.homeMessage {
+  text-align: center;
+}
+
+.logout {
+  margin-left: 45%;
+}
+img {
+  margin-left: 8%;
+  margin-top: 2%;
+}
+
+#dropdownCheck2 {
+  margin-left: 555px;
+  margin-top: 1%;
+  
+}
+
+#checkbox {
+  margin-top: 1%;
+  margin-left: 10px;
+}
+
+#welcomeimg {
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin-left: 620px;
+}
+
+h3 {
+  margin-left: 720px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  border-width: 5px;
+  border-style: solid;
+  width: 90px;
+  color: black;
+  border-color: lightslategray;
+  padding-bottom: 2px;
+}
+
+
